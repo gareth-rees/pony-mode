@@ -27,7 +27,7 @@
 ;;
 
 (defvar pony-nonindenting-tags
-  '("cache" "csrf_token" "cycle" "debug" "extends" "firstof" "include" "load" "now" 
+  '("cache" "csrf_token" "cycle" "debug" "extends" "firstof" "include" "load" "now"
     "regroup" "ssi" "templatetag" "trans" "url" "widthratio")
   "List of tags that do not imply indentation (or require an end tag).")
 
